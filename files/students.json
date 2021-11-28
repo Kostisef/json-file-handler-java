@@ -1,0 +1,31 @@
+{
+  "STUDENTS": [
+    {
+      "Courses": [
+        "Applications of TinyML",
+        "JavaScript",
+        "Algorithms"
+      ],
+      "Age":     55,
+      "Name":    "John Doe"
+    },
+    {
+      "Courses": [
+        "Introduction to Computer Science",
+        "Big Data Systems",
+        "Dynamic Web Applications"
+      ],
+      "Age":     25,
+      "Name":    "Adison Lee"
+    },
+    {
+      "Courses": [
+        "Data Science: Machine Learning",
+        "Fundamentals of TinyML",
+        "Deploying TinyML"
+      ],
+      "Age":     38,
+      "Name":    "Lucy Hinton"
+    }
+  ]
+}
